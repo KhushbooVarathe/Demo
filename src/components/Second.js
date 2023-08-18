@@ -2,7 +2,7 @@ import React from 'react'
 
 function Second() {
   return (
-    <div>MY_Seconfdgsfdyeyd_PAGE</div>
+    <div>MY_Secortretreterttttttttttttnfdgsfdyeyd_PAGE</div>
   )
 }
 
